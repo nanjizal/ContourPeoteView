@@ -4,7 +4,7 @@ test
 TODO:
 Currently Peote and Contour clash with setup/unsetup.
 May need to look into aspects of how frames are constructed and cleared and maybe changing programs.
-
+Conversation notes with semmi some may have relevancy.
 
 ```haxe
 gl.viewport (0, 0, w, h);
